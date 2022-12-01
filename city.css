@@ -15,6 +15,12 @@
                 margin-right: 50px;
                 font-weight: bold;
             }
+.img3
+{
+            position: absolute;
+            top: 3150px;
+            z-index: 1;
+}
             li
             {
                 float: right;
